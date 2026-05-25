@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack
+## NH-NAK
 
 **Frontend**
 
