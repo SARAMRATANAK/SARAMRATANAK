@@ -32,3 +32,6 @@
 
 [![TanakTools](https://img.shields.io/badge/🛠️_RaTanakTools-tanak--tools.vercel.app-000000?style=flat-square)](https://ratanak-tools.vercel.app)
 [![Telegram](https://img.shields.io/badge/📱_Telegram-@nhnak-26A5E4?style=flat-square)](https://t.me/nhnak)
+
+- 🌐 Website: [ratanak-tools.vercel.app](https://ratanak-tools.vercel.app)
+- 💬 Telegram: [t.me/nhnak](https://t.me/nhnak)
