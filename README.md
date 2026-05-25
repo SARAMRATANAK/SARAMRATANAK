@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🚀 SRN TOOLKIT
 
-<!--
-**RUNNY123943/RUNNY123943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Powerful Python Automation & Utility Tools
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Features
+
+- ⚡ Fast Performance
+- 🔐 Secure System
+- 🤖 Automation Tools
+- 🖥️ Modern GUI
+- 📦 Easy Installation
+- 🌐 Multi Platform Support
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="preview.png" width="700">
+</p>
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
+pip install -r requirements.txt
+python main.py
