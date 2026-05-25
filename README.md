@@ -1,6 +1,6 @@
 ## NH-NAK
 
-[![TanakTools](https://img.shields.io/badge/🛠️_TanakTools-tanak--tools.vercel.app-000000?style=flat-square)](https://tanak-tools.vercel.app)
+[![TanakTools](https://img.shields.io/badge/🛠️_TanakTools-tanak--tools.vercel.app-000000?style=flat-square)](https://ratanak-tools.vercel.app)
 [![Telegram](https://img.shields.io/badge/📱_Telegram-@nhnak-26A5E4?style=flat-square)](https://t.me/nhnak)
 
 ---
